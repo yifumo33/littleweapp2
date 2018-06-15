@@ -14,7 +14,7 @@
 ![图书内容展现](https://upload-images.jianshu.io/upload_images/5670939-0e0e409dea476a33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 扫描二维码进入小程序（如果没成功请联系我更新）
-![扫码体验（如果无效请联系我更新）](https://upload-images.jianshu.io/upload_images/5670939-cb0fdb313391a304.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![扫码体验（如果无效请联系我更新）](https://upload-images.jianshu.io/upload_images/5670939-4fba0d7b2a58658e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## Build Setup
 
 ``` bash
